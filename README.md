@@ -1,7 +1,7 @@
 # Olá, eu sou o Breno 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LrATWxfIc9DkU/giphy.gif" alt="One Piece GIF"/>
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/06/one-piece-gif-3.gif" alt="One Piece GIF"/>
 </p>
 
 ## Sobre mim
