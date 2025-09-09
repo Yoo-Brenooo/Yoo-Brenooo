@@ -39,7 +39,8 @@
 
 ## 📬 Contato
 <p align="center">
-  <a href="https://www.instagram.com/breno_.os" target="_blank">
+  <a href="https://www.instagram.com/breno_.os" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" />
   </a>
+  <br>
 - Numero: +55 11 91145-7839
