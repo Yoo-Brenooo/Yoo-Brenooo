@@ -38,6 +38,8 @@
 ---
 
 ## 📬 Contato
-- GitHub: [github.com/Yoo-Brenooo](https://github.com/Yoo-Brenooo)
-- Instagram: @breno_.os
+<p align="center">
+  <a href="https://www.instagram.com/breno_.os" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" />
+  </a>
 - Numero: +55 11 91145-7839
