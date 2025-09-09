@@ -13,7 +13,8 @@
 
 ## 🚀 Linguagens que estudo
 - 🖥️ **C** → Lógica de programação, estruturas e algoritmos básicos  
-- 🐍 **Python** → Automação, scripts e projetos  
+- 🐍 **Python** → Automação, scripts e projetos
+- 🌐 **C#** → Programação orientada a objetos, desenvolvimento de aplicações com .NET, interfaces gráficas e APIs
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
