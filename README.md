@@ -42,4 +42,7 @@
   <a href="https://www.instagram.com/breno_.os" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
   </a>
   <br>
-- Numero: +55 11 91145-7839
+  <a href="https://wa.me/5511911457839" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2384D249?style=for-the-badge&logo=whatsapp&logoColor=white" width="180" target="_blank">
+  </a>
+</p>
