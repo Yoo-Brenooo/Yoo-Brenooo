@@ -1,7 +1,7 @@
 # Olá, eu sou o Breno 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Programação GIF"/>
+  <img src="https://media.giphy.com/media/your-link-here/giphy.gif" alt="One Piece GIF"/>
 </p>
 
 ## Sobre mim
