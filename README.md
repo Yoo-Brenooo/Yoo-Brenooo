@@ -7,7 +7,7 @@
 ## Sobre mim
 - 👦 Tenho 16 anos  
 - 🎓 Curso **Desenvolvimento de Sistemas** na **ETEC**  
-- 💻 Estudando as linguagens **C** e **Python**
+- 💻 Estudando as linguagens **C**, **Python** e **C#** 
 
 ---
 
